@@ -4,19 +4,6 @@ Welcome to the **PandasAI with Llama3** project! This Streamlit-based web applic
 
 ---
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [How It Works](#how-it-works)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Links](#links)
-
----
-
 ## Introduction
 
 This project combines the capabilities of the `PandasAI` library and a local instance of the `Llama3` language model to provide seamless, conversational data analysis. With a clean, glassmorphism-inspired UI, users can upload CSV files, ask questions about the data, and receive insightful answers.
