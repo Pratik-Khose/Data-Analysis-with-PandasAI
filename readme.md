@@ -2,8 +2,6 @@
 
 Welcome to the **PandasAI with Llama3** project! This Streamlit-based web application empowers users to perform intuitive data analysis using natural language queries on CSV datasets, leveraging the power of Llama3 and PandasAI.
 
-![Project Banner](https://your-image-link-here) <!-- Optional: Add a banner image -->
-
 ---
 
 ## Table of Contents
